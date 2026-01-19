@@ -28,9 +28,11 @@ pip install ebooklib beautifulsoup4
 ## 使用方法
 
 1. **准备工作**
+   - 自行创建名为`test_books`的文件夹
    - 将需要检查的EPUB格式小说文件复制或粘贴到`test_books`文件夹中
+   
 
-2. **执行检查**
+3. **执行检查**
    - 直接运行以下命令即可开始检查：
    
    ```bash
